@@ -1,2 +1,15 @@
-# Almusik_ProjectStepbyStep
- No decorrer da disciplina de Desenho de Tecnologias para Saúde e Bem-estar, lecionada  pela professora Dr.ª. Mónica Cameirão, aos mestrados de Engenharia Informática e Design  de Media Interativos, foi criado um estúdio, por três alunos, André Gonçalves, Isabel Rebelo,  Maria João Conceição O estúdio que se intitula de Almusik Studio, tem como base a junção da música e da dança  com o intuito de proceder ao desenvolvimento de um estudo que vise apoiar pessoas com  Doença de Alzheimer, utilizando uma componente didática e lúdica com base na dança e na música.
+# Welcome to StepbyStep!
+
+During the discipline Design of Technologies for Health and Well-being, taught by Professor Dr.ª. Mónica Cameirão, to the Masters in Computer Engineering and Interactive Media Design, a studio was created by three students, André Gonçalves, Isabel Rebelo, Maria João Conceição.
+The studio, which is called Almusik Studio, is based on the combination of music and dance with the aim of carrying out a study to support people with Alzheimer's Disease, using a didactic and playful component based on dance and music.
+
+# How to use
+- Execute the file "Step by Step.exe", located on the root of this repository
+
+# Mockups
+
+
+# Credits
+- Maria João Conceição: Designer, Project Manager
+- Isabel Rebelo: User Research, Programmer
+- André Gonçalves: Hardware Integration, Programmer
