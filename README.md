@@ -6,9 +6,6 @@ The studio, which is called Almusik Studio, is based on the combination of music
 # How to use
 - Execute the file "Step by Step.exe", located on the root of this repository
 
-# Mockups
-
-
 # Credits
 - Maria João Conceição: Designer, Project Manager
 - Isabel Rebelo: User Research, Programmer
